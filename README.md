@@ -3,6 +3,9 @@
 **Overview:**
 This repository contains a Power BI dashboard designed for visualizing key performance indicators (KPIs) and data insights. The dashboard aims to provide stakeholders with a comprehensive view of sales performance, customer engagement, inventory management, and market trends.
 
+**Dashboards**
+Zomato Sales Report, Addidas Sales Report, Superstore Sales Report, HR Analysis Report, Happniess Index Report, Netflix Movies Report.
+
 **Features:**
 Sales Analysis: Visualize sales data over time, segmented by product lines, regions, and customer demographics.
 Customer Insights: Analyze customer behavior and preferences, including purchase patterns and feedback.
